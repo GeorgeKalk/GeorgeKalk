@@ -12,14 +12,6 @@ I am a Master's/PhD student at **Columbia University** specializing in **Stochas
 
 ---
 
-## 🔬 Research & Interests
-My work bridges **computational mathematics**, **numerical methods**, and **engineering applications**.  
-I am particularly interested in:
-
-- Developing robust **stochastic frameworks** for uncertainty quantification in structural and material models.
-- Advancing **high-fidelity numerical methods** for multiphysics problems.
-- Integrating **isogeometric concepts** with classical FEM for improved accuracy and smoothness.
-- Modeling **fracture and plasticity** using **phase-field approaches**.
 
 ## 📫 Contact
 - **Email:** gk2718@columbia.edu  
