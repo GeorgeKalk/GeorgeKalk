@@ -8,7 +8,7 @@ I am a Master's/PhD student at **Columbia University** specializing in **Stochas
 - 📐 Finite Element Methods (FEM)  
 - 🖋️ Isogeometric Analysis  
 - 🔩 Plasticity and Nonlinear Analysis  
-- 🌊 Phase Field Modeling  
+- 💥 Phase Field Fracture Modeling  
 
 ---
 
