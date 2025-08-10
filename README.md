@@ -1,6 +1,6 @@
 # 👋 Welcome to my GitHub
 
-I am a Master's/PhD student at **Columbia University** specializing in **Computational Mechanics** with a focus on:
+I am a Master's/PhD student at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
 
 - 🌀 Stochastic Computational Dynamics  
 - 📐 Finite Element Methods (FEM)  
