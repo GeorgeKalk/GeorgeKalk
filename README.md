@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgioskalk&label=Profile%20views&color=0e75b6&style=flat" alt="georgioskalk" /> </p>
+
 # 👋 Welcome to my GitHub
 
 I am a Master's/PhD student at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
@@ -38,9 +40,6 @@ I am particularly interested in:
 
 ## 📫 Contact
 - **Email:** gk2718@columbia.edu  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgioskalk&label=Profile%20views&color=0e75b6&style=flat" alt="georgioskalk" /> </p>
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/george kalkantzis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george kalkantzis" height="30" width="40" /></a>
 </p>
@@ -53,7 +52,7 @@ I am particularly interested in:
 
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=georgioskalk&label=Profile%20views&color=0e75b6&style=flat" alt="georgioskalk" /> </p>
+<p align="left"> <img src="www.linkedin.com/in/george-kalkantzis-348634216&label=Profile%20views&color=0e75b6&style=flat" alt="georgioskalk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 
