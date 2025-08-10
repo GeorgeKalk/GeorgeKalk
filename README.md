@@ -37,9 +37,8 @@ I am particularly interested in:
 ---
 
 ## 📫 Contact
-- **Email:** your.email@columbia.edu  
-- **LinkedIn:** [Your Name](https://www.linkedin.com/in/your-profile)  
-- **Website/Portfolio:** [yourwebsite.com](https://yourwebsite.com) *(if you have one)*
+- **Email:** gk2718@columbia.edu  
+- **LinkedIn:** George Kalkantzis (https://www.linkedin.com/in/your-profile)  
 
 ---
 
