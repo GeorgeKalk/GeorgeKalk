@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=georgioskalk&label=Profile%20views&color=0e75b6&style=flat" alt="georgioskalk" /> </p>
 
-# 👋 Welcome to my GitHub
+# 👋 Welcome to my GitHub (Account under development)
 
 I am a Master's/PhD student at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
 
