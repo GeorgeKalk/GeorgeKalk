@@ -38,7 +38,7 @@ I am particularly interested in:
 
 ## 📫 Contact
 - **Email:** gk2718@columbia.edu  
-- **LinkedIn:** George Kalkantzis (https://www.linkedin.com/in/your-profile)  
+- **LinkedIn:** George Kalkantzis (www.linkedin.com/in/george-kalkantzis-348634216)  
 
 ---
 
