@@ -12,16 +12,6 @@ I am a Master's/PhD student at **Columbia University** specializing in **Stochas
 
 ---
 
-
-## 📫 Contact
-- **Email:** gk2718@columbia.edu  
-<p align="left">
-<a href="https://www.linkedin.com/in/george-kalkantzis-348634216" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george kalkantzis" height="30" width="40" />
-</a>
-</p>
-
-
 ## ⚙️ Languages and Tools
 <p align="left"> 
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
@@ -54,7 +44,14 @@ I am a Master's/PhD student at **Columbia University** specializing in **Stochas
   </a>
 </p>
 
-
+---
+## 📫 Contact
+- **Email:** gk2718@columbia.edu  
+<p align="left">
+<a href="https://www.linkedin.com/in/george-kalkantzis-348634216" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george kalkantzis" height="30" width="40" />
+</a>
+</p>
 ---
 
 > _"Computational mechanics is not just about solving equations — it’s about understanding the physics they represent."_
