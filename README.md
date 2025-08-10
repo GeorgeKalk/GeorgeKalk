@@ -26,8 +26,8 @@ I am particularly interested in:
 ## 🛠️ Technical Skills
 - **Programming Languages:** Python, C, MATLAB, HTML  
 - **Numerical Methods:** FEM, Isogeometric Analysis, Nonlinear Solvers, Optimization  
-- **Software Tools:** Git, LaTeX, ANSYS, Abaqus, COMSOL (and custom in-house codes)  
-- **Other Skills:** Scientific Visualization, HPC Workflows, Data Analysis
+- **Software Tools:** Sofistik, SAP2000 (and custom in-house codes)  
+- **Other Skills:** Scientific Visualization, Data Analysis
 
 ---
 
