@@ -4,7 +4,7 @@
 
 I am a Master's/PhD student at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
 
-- 🌀 Stochastic Computational Dynamics  
+- 🌀 Stochastic Engineering Dynamics  
 - 📐 Finite Element Methods (FEM)  
 - 🖋️ Isogeometric Analysis  
 - 🔩 Plasticity and Nonlinear Analysis  
