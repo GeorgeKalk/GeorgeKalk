@@ -2,7 +2,7 @@
 
 # 👋 Welcome to my GitHub (Account under development)
 
-I am a Master's/PhD student at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
+I am a PhD student and Graduate Research Assistant at **Columbia University** specializing in **Stochastic Computational Dynamics** with a focus on:
 
 - 🌀 Stochastic Engineering Dynamics  
 - 📐 Finite Element Methods (FEM)  
